@@ -1,9 +1,9 @@
 # BMI Calculator: A Python Implementation for Health Awareness
-- [Introduction](Introduction)
-- [Technical Implementation](Technical_Implementation)
-- [Project Significance and Impact](Project_Significance_and_Impact)
-- [Potential Enhancements](Potential_Enhancements)
-- [Conclusion](Conclusion)
+- [Introduction](#Introduction)
+- [Technical Implementation](#Technical-Implementation)
+- [Project Significance and Impact](#Project-Significance-and-Impact)
+- [Potential Enhancements](#Potential-Enhancements)
+- [Conclusion](#Conclusion)
 
 ## Introduction
 This project implements a Body Mass Index (BMI) calculator using Python, providing a simple yet effective tool for individuals to assess their weight status.  The code takes user input for height (in meters) and weight (in kilograms) and calculates the BMI using the standard formula: 
